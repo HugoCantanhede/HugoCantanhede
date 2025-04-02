@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia com vasta experiência em suporte técnico e ass
 ## 📌 Atualmente estudando e desenvolvendo projetos em:
 
 - **Backend:** Python, NodeJS, Java  
-- **Frontend:** JavaScript, HTML, CSS  
+- **Frontend:** JavaScript, HTML, CSS, Django, Next.JS 
 - **Banco de Dados:** MySQL, NoSQL  
 - **Conhecimentos em DevOps e Infra:** AWS, Windows Server, Zabbix  
 
